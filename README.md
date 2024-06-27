@@ -1,2 +1,4 @@
 # Live-Chat-Application-with-Real-time-Messaging
 Welcome to our Realtime Chat Application! This project leverages React for the frontend and Node.js with Express.js for the backend, utilizing MongoDB for data storage and Socket.io for real-time communication. Users can sign up, log in securely with JWT tokens, and exchange messages instantly. The application ensures message persistence through MongoDB, providing a seamless chatting experience. To get started, clone the repository, install dependencies, configure your MongoDB connection, and launch the application using Node.js. Enjoy real-time messaging with our intuitive and responsive chat interface!
+![s](https://github.com/Bhavish-27/Live-Chat-Application-with-Real-time-Messaging/assets/145179879/e0167beb-ea5a-4631-a9ba-6394b83c4228)
+![h](https://github.com/Bhavish-27/Live-Chat-Application-with-Real-time-Messaging/assets/145179879/d0b4d3c0-5bdb-467e-b611-3437c95200d3)
